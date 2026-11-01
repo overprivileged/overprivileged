@@ -30,6 +30,10 @@ So I install them on my own Mac, **try to break them**, read the code and the do
 
 <table>
 <tr>
+<td width="50%" valign="top"><a href="https://youtu.be/xGdslNm-pz0"><img src="https://i.ytimg.com/vi/xGdslNm-pz0/mqdefault.jpg" width="100%"></a><br><b>Is SolidCraft Safe? An Antivirus Called It a Trojan, So I Tested It.</b><br><sub>One engine said trojan. I checked the real file, the signature and what it does.</sub></td>
+<td width="50%" valign="top"><a href="https://youtu.be/mVAyWik4Wz8"><img src="https://i.ytimg.com/vi/mVAyWik4Wz8/mqdefault.jpg" width="100%"></a><br><b>Is ArtCraft Really Vibe-Coded? I Tested It From the Inside</b><br><sub>I sent them my own fix and watched every check: the robots, their AI reviewer, and the human.</sub></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="https://youtu.be/wRkQf9IjJOE"><img src="https://i.ytimg.com/vi/wRkQf9IjJOE/mqdefault.jpg" width="100%"></a><br><b>ArtCraft Changes Every 2 Minutes. So I Built Something to Watch It.</b><br><sub>I built Craft Watch: every change to the ArtCraft apps, live on one map.</sub></td>
 <td width="50%" valign="top"><a href="https://youtu.be/s6jdV4o4bdw"><img src="https://i.ytimg.com/vi/s6jdV4o4bdw/mqdefault.jpg" width="100%"></a><br><b>PdfCraft Says Your PDFs Never Leave Your Mac. I Tried to Catch It.</b><br><sub>A network watch on my own Mac while I used it. What it sent, and what it didn't.</sub></td>
 </tr>
