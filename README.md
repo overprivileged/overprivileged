@@ -30,20 +30,24 @@ So I install them on my own Mac, **try to break them**, read the code and the do
 
 <table>
 <tr>
+<td width="50%" valign="top"><a href="https://youtu.be/RGtdgiS_r-Q"><img src="https://i.ytimg.com/vi/RGtdgiS_r-Q/mqdefault.jpg" width="100%"></a><br><b>I Opened This PDF in PdfCraft. It Gave My AI Secret Orders.</b><br><sub>A hidden note in a PDF told my AI to read my inbox (a fake one). Claude said no. Qwen followed it.</sub></td>
+<td width="50%" valign="top"><a href="https://youtu.be/T28a395yWcI"><img src="https://i.ytimg.com/vi/T28a395yWcI/mqdefault.jpg" width="100%"></a><br><b>I Tested 'Craft Anything' and It Did Something Weird.</b><br><sub>I asked it to clone 3 apps with Claude. One came out 94% the same, and on my Mac it ran 61 commands, almost none asked.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://youtu.be/5SFqgejV73Y"><img src="https://i.ytimg.com/vi/5SFqgejV73Y/mqdefault.jpg" width="100%"></a><br><b>Cloudflare’s Free AI Bug Hunter Found 3 Security Problems in ArtCraft Apps</b><br><sub>Cloudflare’s free AI bug hunter on 7 ArtCraft apps: 3 real problems, checked by hand, reported privately.</sub></td>
 <td width="50%" valign="top"><a href="https://youtu.be/xGdslNm-pz0"><img src="https://i.ytimg.com/vi/xGdslNm-pz0/mqdefault.jpg" width="100%"></a><br><b>Is SolidCraft Safe? An Antivirus Called It a Trojan, So I Tested It.</b><br><sub>One engine said trojan. I checked the real file, the signature and what it does.</sub></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="https://youtu.be/mVAyWik4Wz8"><img src="https://i.ytimg.com/vi/mVAyWik4Wz8/mqdefault.jpg" width="100%"></a><br><b>Is ArtCraft Really Vibe-Coded? I Tested It From the Inside</b><br><sub>I sent them my own fix and watched every check: the robots, their AI reviewer, and the human.</sub></td>
-</tr>
-<tr>
 <td width="50%" valign="top"><a href="https://youtu.be/wRkQf9IjJOE"><img src="https://i.ytimg.com/vi/wRkQf9IjJOE/mqdefault.jpg" width="100%"></a><br><b>ArtCraft Changes Every 2 Minutes. So I Built Something to Watch It.</b><br><sub>I built Craft Watch: every change to the ArtCraft apps, live on one map.</sub></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="https://youtu.be/s6jdV4o4bdw"><img src="https://i.ytimg.com/vi/s6jdV4o4bdw/mqdefault.jpg" width="100%"></a><br><b>PdfCraft Says Your PDFs Never Leave Your Mac. I Tried to Catch It.</b><br><sub>A network watch on my own Mac while I used it. What it sent, and what it didn't.</sub></td>
-</tr>
-<tr>
 <td width="50%" valign="top"><a href="https://youtu.be/TOlziFYfEy8"><img src="https://i.ytimg.com/vi/TOlziFYfEy8/mqdefault.jpg" width="100%"></a><br><b>I Reverse Engineered PhotoCraft (Free Photoshop Clone): What’s Inside?</b><br><sub>The app you actually download, X-rayed: no trackers, no hidden keys, and a server built in.</sub></td>
-<td width="50%" valign="top"><a href="https://youtu.be/Icr9X97ddec"><img src="https://i.ytimg.com/vi/Icr9X97ddec/mqdefault.jpg" width="100%"></a><br><b>ArtCraft Review: Is PhotoCraft Safe? I Tested the Free Photoshop Clone</b><br><sub>Six checks on my own Mac, from the download to the code.</sub></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><a href="https://youtu.be/Icr9X97ddec"><img src="https://i.ytimg.com/vi/Icr9X97ddec/mqdefault.jpg" width="100%"></a><br><b>ArtCraft Review: Is PhotoCraft Safe? I Tested the Free Photoshop Clone</b><br><sub>Six checks on my own Mac, from the download to the code.</sub></td>
 <td width="50%" valign="top"><a href="https://youtu.be/7qyvf6wUgA0"><img src="https://i.ytimg.com/vi/7qyvf6wUgA0/mqdefault.jpg" width="100%"></a><br><b>Claude + ArtCraft (Free Adobe Clones): I Tried to Make It Escape. Only One Has a Lock</b><br><sub>Connecting an AI to the apps, then trying to get it out of its folder.</sub></td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -51,8 +55,12 @@ So I install them on my own Mac, **try to break them**, read the code and the do
 
 <table>
 <tr>
+<td width="50%" valign="top"><a href="https://youtu.be/0CrUYbGmGmc"><img src="https://i.ytimg.com/vi/0CrUYbGmGmc/mqdefault.jpg" width="100%"></a><br><b>The Truth About Free Claude Code: It's Not What You Think</b><br><sub>Free Claude Code isn’t Claude. Who really answers, where my code went, and why another device could use my key.</sub></td>
 <td width="50%" valign="top"><a href="https://youtu.be/h6B3VPnTpYY"><img src="https://i.ytimg.com/vi/h6B3VPnTpYY/mqdefault.jpg" width="100%"></a><br><b>PHP2Shell: AI Found a Bug in 7 of 10 Websites (Check Yours)</b><br><sub>What the AI-found bug is, who's affected, and how to check your own site.</sub></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="https://youtu.be/RbYo0Qjcyk4"><img src="https://i.ytimg.com/vi/RbYo0Qjcyk4/mqdefault.jpg" width="100%"></a><br><b>Gemini 4 Argon Test: I Tried to Trick Google’s “Hardest to Hack” AI</b><br><sub>Prompt injection against the AI Google calls its toughest.</sub></td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -63,6 +71,7 @@ So I install them on my own Mac, **try to break them**, read the code and the do
 | Project | What it is |
 |---|---|
 | 🛰️ [**Craft Watch**](https://github.com/overprivileged/craft-watch) · [live site](https://overprivileged.github.io/craft-watch/) | Every change to the ArtCraft apps on one live map, from public GitHub data. No login, no cookies, no tracking. MIT licensed. |
+| 🎬 [**craft-ai**](https://github.com/overprivileged/craft-ai) | An unofficial AI chat panel for FilmCraft: say what you want, every change is a card you can undo. Its Guard flags files that try to talk to your AI and keeps it in your project folder. Source + build script, MIT / Apache-2.0. |
 | 🔒 [**artcraft-claude-safe**](https://github.com/overprivileged/artcraft-claude-safe) | Connect ArtCraft / PhotoCraft to Claude with a two-folder lock: 5 steps, config, prompts that work, safety notes, uninstall. |
 
 ## 🧪 How I test
